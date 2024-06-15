@@ -1,0 +1,6 @@
+F:\PJ\BoardingHousePJ\DAO\bin\Debug\DAO.dll
+F:\PJ\BoardingHousePJ\DAO\bin\Debug\DAO.pdb
+F:\PJ\BoardingHousePJ\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+F:\PJ\BoardingHousePJ\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+F:\PJ\BoardingHousePJ\DAO\obj\Debug\DAO.dll
+F:\PJ\BoardingHousePJ\DAO\obj\Debug\DAO.pdb

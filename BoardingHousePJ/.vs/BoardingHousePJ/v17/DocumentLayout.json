@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\PJ\\BoardingHousePJ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|f:\\pj\\boardinghousepj\\gui\\system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|solutionrelative:gui\\system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|f:\\pj\\boardinghousepj\\gui\\system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|solutionrelative:gui\\system\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|f:\\pj\\boardinghousepj\\gui\\system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{78FF3081-44D3-467D-A258-F44E52A7766C}|GUI\\GUI.csproj|solutionrelative:gui\\system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\system\\frmLogin.cs",
+              "ToolTip": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmLogin.cs",
+              "RelativeToolTip": "GUI\\system\\frmLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:12:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmLogin.cs",
+              "RelativeDocumentMoniker": "GUI\\system\\frmLogin.cs",
+              "ToolTip": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmLogin.cs [Design]",
+              "RelativeToolTip": "GUI\\system\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T17:11:54.704Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmMain.cs",
+              "RelativeDocumentMoniker": "GUI\\system\\frmMain.cs",
+              "ToolTip": "F:\\PJ\\BoardingHousePJ\\GUI\\system\\frmMain.cs [Design]",
+              "RelativeToolTip": "GUI\\system\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T16:57:35.961Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

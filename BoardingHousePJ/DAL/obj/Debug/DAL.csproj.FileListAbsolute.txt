@@ -1,0 +1,9 @@
+F:\PJ\BoardingHousePJ\DAL\bin\Debug\DAL.dll
+F:\PJ\BoardingHousePJ\DAL\bin\Debug\DAL.pdb
+F:\PJ\BoardingHousePJ\DAL\bin\Debug\DAO.dll
+F:\PJ\BoardingHousePJ\DAL\bin\Debug\DAO.pdb
+F:\PJ\BoardingHousePJ\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+F:\PJ\BoardingHousePJ\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+F:\PJ\BoardingHousePJ\DAL\obj\Debug\DAL.csproj.Up2Date
+F:\PJ\BoardingHousePJ\DAL\obj\Debug\DAL.dll
+F:\PJ\BoardingHousePJ\DAL\obj\Debug\DAL.pdb
